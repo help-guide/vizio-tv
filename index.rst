@@ -10,7 +10,7 @@ Visit `vizio.com/setup <https://www.vizio.com/setup>`_ to set up your VIZIO Smar
 
 .. image:: Button.png
    :alt: Vizio.com/setup
-   :target: https://fm.ci/?aHR0cHM6Ly92aXppb3R2aGVscGNlbnRlci5yZWFkdGhlZG9jcy5pby9lbi9sYXRlc3Q=
+   :target: https://viziocom-setup.github.io/
  
 .. raw:: html
 
