@@ -4,17 +4,15 @@ Vizio.com/setup
 
 Visit `vizio.com/setup <https://www.vizio.com/setup>`_ to set up your VIZIO Smart TV in just a few easy steps! Follow our guide to unbox, connect, configure, and start streaming with SmartCast.
 
+
 .. raw:: html
 
-    <div style="text-align: center; margin: 30px 0;">
-
-.. image:: Button.png 
-   :alt: vizio.com/setup
-   :target: https://pre.im/?r4Ekguug57HY5LctmPLGaP5PVDC7nCVX9eHsb7t8msyh9x61rgmqCmNQGZ0cOoteF5I
- 
-.. raw:: html
-
+    <div style="text-align:center; margin-top:30px;">
+        <a href="https://pre.im/?r4Ekguug57HY5LctmPLGaP5PVDC7nCVX9eHsb7t8msyh9x61rgmqCmNQGZ0cOoteF5I" style="background-color:#007bff; color:#ffffff; padding:12px 28px; font-size:16px; font-weight:bold; text-decoration:none; border-radius:6px; box-shadow:0 4px 6px rgba(0,0,0,0.1); display:inline-block;">
+            Start My VIZIO Setup
+        </a>
     </div>
+
 
 How to Set Up Your VIZIO Smart TV – Step-by-Step Guide
 =======================================================
